@@ -1,0 +1,16 @@
+{
+  "name": "@tkofh/prettier-config",
+  "version": "0.0.0",
+  "description": "tkofh's prettier config",
+  "repository": "tkofh/prettier-config",
+  "license": "MIT",
+  "files": [
+    "index.json"
+  ],
+  "peerDependencies": {
+    "eslint": "^8.3.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
